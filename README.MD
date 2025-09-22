@@ -67,7 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/v2/D4D03AQHpGzL4qowePg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704819294145?e=1761177600&v=beta&t=y3wGMzSk7mQNKp4UxS4RzwMGuU7Oxd4WAj8Tz2CHVug"
     />
     <p>&nbsp&nbsp&nbspRafael V. Wierzba<br>
     &nbsp&nbsp&nbsp
